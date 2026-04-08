@@ -3,16 +3,18 @@ TRINETRA — Cognitive Vehicle Safety System
 # TRINETRA
 TRINETRA — Cognitive Vehicle Safety System
 
----
+# Important Links
+https://www.linkedin.com/posts/bits-pilani-wilp_bitspilaniwilp-autown25-mtechaiml-activity-7441756776787738624-HlJw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADP3VDcBkbtThW1ThX8sNsN2c65qlEgvAYA
+https://www.deccanchronicle.com/southern-states/telangana/hyderabad-bits-pilani-student-develops-3-layered-vehicle-safety-system-1938104
+https://www.instagram.com/reel/DWODAjdj00n/
+https://x.com/PTI_News/status/2024030830503620767
+https://youtube.com/shorts/wpudkrPCRDc?si=DzxIFB34Q2t0g47Q
 
 # 5️`TRINETRA` README (Flagship)
 
 ```markdown
 # TRINETRA — Cognitive Vehicle Safety System
 
-![AI](https://img.shields.io/badge/AI-Cognitive%20System-blue)
-![Embedded](https://img.shields.io/badge/Embedded-Automotive-green)
-![Status](https://img.shields.io/badge/Status-Patent%20Pending-important)
 
 **TRINETRA** is a **multi-layered cognitive vehicle safety system** designed to enhance automotive safety through intelligent monitoring, anomaly detection, and centralized control.
 
